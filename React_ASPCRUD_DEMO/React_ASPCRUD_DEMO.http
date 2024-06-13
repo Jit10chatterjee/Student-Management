@@ -1,0 +1,6 @@
+@React_ASPCRUD_DEMO_HostAddress = http://localhost:5139
+
+GET {{React_ASPCRUD_DEMO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
